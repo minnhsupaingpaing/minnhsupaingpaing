@@ -1,3 +1,12 @@
+# Konichiwa 👋
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
 <h2 align="left">Hi 👋! My name is Minn Hsu Paing Paing and I'm a Software Developer, from Myanmar</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
@@ -51,5 +60,26 @@
 </td></tr></table>  
 
 <br />
+
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Theo%2C+a+FULL+STACK+and+Smart+boy+wannabe+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+</div>
 
 ![Snake animation](https://github.com/minnhsupaingpaing/minnhsupaingpaing/blob/output/github-contribution-grid-snake.svg)
